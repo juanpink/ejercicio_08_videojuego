@@ -1,0 +1,29 @@
+#logo {
+    margin-bottom: 40px;
+}
+
+#circuito {
+    display: flex;
+    width: 100%;
+}
+
+#coches {
+    width: 94%;
+}
+
+.car {
+    width: 200px;
+    padding-bottom: 50px;
+    transition: all 0.25s;
+}
+
+#meta {
+    width: 5%;
+    z-index: -100;
+}
+
+#meta img {
+    height: 230px;
+    width: 150px;
+    aspect-ratio: 16/9;
+}
